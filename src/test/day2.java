@@ -8,6 +8,9 @@ public class day2 {
 	public void demo()
 	{
 		System.out.println("good");
+		//code by gitX
+		System.out.println("better");
+		System.out.println("best");
 	}
 	
 
