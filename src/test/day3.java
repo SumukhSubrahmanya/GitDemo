@@ -16,14 +16,17 @@ public class day3 {
 	@BeforeClass
 	public void befoClass()
 	{
-		System.out.println("Before executing any methods in the class");
+		System.out.println("Before executing any methods in the class--");
+		System.out.println("--THIS WILL BE EXECUTED");
 	}
 
 	
 	@AfterClass
 	public void aftClass()
 	{
-		System.out.println("After executing any methods in the class");
+		System.out.println("After executing any methods in the class--");
+		System.out.println("--THIS WILL BE EXECUTED");
+		
 	}
 	
 	@AfterTest

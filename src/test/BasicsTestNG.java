@@ -30,5 +30,22 @@ public class BasicsTestNG {
 	{
 		System.out.println("I am the no 1 from the last");
 	}
+	
+	@Test
+	public void print1()
+	{
+		System.out.println("This is print 1");
+	}
 
+	@Test
+	public void print2()
+	{
+		System.out.println("This is print 2");
+	}
+	
+	@Test
+	public void print3()
+	{
+		System.out.println("This is print 3");
+	}
 }

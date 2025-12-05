@@ -13,5 +13,14 @@ public class day2 {
 		System.out.println("best");
 	}
 	
+	public void demo1()
+	{
+		System.out.println("good1");
+		//code by gitX
+		System.out.println("better1");
+		System.out.println("best1");
+	}
+	
+	
 
 }
