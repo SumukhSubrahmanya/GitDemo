@@ -48,4 +48,11 @@ public class BasicsTestNG {
 	{
 		System.out.println("This is print 3");
 	}
+	
+	//by American architect team
+	@Test
+	public void print4()
+	{
+		System.out.println("This is print 4");
+	}
 }
